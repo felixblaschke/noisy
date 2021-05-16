@@ -1,6 +1,6 @@
 name: noisy
 description: Simple widget to apply white noise, pixel noise or cellular noise texture to the user interface.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/felixblaschke/noisy
 
 environment:
